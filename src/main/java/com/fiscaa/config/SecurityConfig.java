@@ -21,6 +21,7 @@ public class SecurityConfig {
                 // Replace lambda with method reference for disabling CSRF
                 .csrf(AbstractHttpConfigurer::disable)
                 .authorizeHttpRequests(auth -> auth
+                        .requestMatchers("/", "/index", "/home").permitAll()  // Permit public access to these endpoints
                         .requestMatchers("/api/auth/**").permitAll()
                         .requestMatchers("/h2-console/**").permitAll()
                         .anyRequest().authenticated()
