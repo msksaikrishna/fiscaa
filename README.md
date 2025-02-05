@@ -98,7 +98,7 @@ fiscaa consists of the following components:
 > **Sequence Diagram:**  
 > [Sequence Diagram](https://kroki.io/plantuml/svg/eNptk01z2yAQhu_8ip2clEPbg286dGJJ1ow7nmli0uRMpLVMgkHlo6376wsSWMHNdfdheXlWInfGMm3dSRDWWaXhh0FNRl_iHR-ZtHDTaiUtyh6KPXrm86u5vQFmoN3kXMW6twmjo-ZygEopO5PVFbl29ggU9S_eIRTfnh9nLJRzcPNnRGkwsRMVa7F0NXgLNbM4KM3_MsuVhGL9TKFWp1Hj0Yf78t0fXm_jfdv8dMMse2H-uuJeGTtopA-7mWyqnKyFcj1Q74sNON9BVzNKV4QEh_DpqzdUwk4NXMIefzo0lrSbUK98PTwWpR_p887Sq6kX6iU8McH70Kk19gFjwpBJWzy-R-u0BO8OHpXXHk-3S2suZ1nWfZ_0vUtCw9KS6eAgzspFl3CvVYfmsgCS96fs23LxjxfQb-WDcTFm5M8fjGuqcnKMebr_QbpK4B475KOFgh_AjUKxHvtb0lTprbWSB65PaXWErq47LRd4aS9SUwKvEP3mXRdUHJwQ51zxE8ffCTbvJLdou-PSmAeHBz441OfpA1i6S94oKd2-4_4bWkI13IyCnZeD5M7vMvzL_wCwJkAC)
 
-![fiscaa_Sequence.png](attachment:4c9e0ecb-61d9-4d2a-bcb4-13e6ae5b4a08:ExpenseIQ_Sequence.png)
+![fiscaa Sequence Diagram](images/fiscaaSequence.png)
 
 ---
 
@@ -124,8 +124,7 @@ fiscaa consists of the following components:
 > **Class Diagram:**  
 > [Class Diagram](https://www.plantuml.com/plantuml/umla/bLF1ZXCn3BtFLqGzpGhs1n1QBL0EbRWj_G1tOcOYCaaLUxeKnByZXnZSZWhQKyV9Uy_FyUiZCHHUvjWD4OZSdh2u7vrph_RxtTO5BvzFN48Q7SuGegcFGFISIuMSSl2ku1Y8iVIMyDfTmUy4VyWv8YG72q-OE0p0-3_QpwwP_FZjY8bmvREQNmYB5Dky728wcFEIsBZsI4C9HmuvcLFfF-PobgDFUO2u1SRFOKRdWV7FXE1zQzvVwAjRgrxFhFPT5G_4Rvl6WnkHspUzFulzNiQfC-pin1-QnAtL99Z_cXmA0gDIUWCnYkzskqHXd9XMclgy-FlNj0cDOev6J5Y0KTNwAxPjkV3qXEKKXhQw9c4piASNnUS4CNZPLFwAINainJekjhNEsDwgLIll_rpOnQhiE0dY-VijJUDh2mm7iCPqWmId5tZwWZnCDrmrGOyHMIKhHFLQpEfVv_x-mMcxDsup0MqwhULE8oMN1umvZUGuNs1ChWIbwL0X7RPYhnz0224n5XYOt7FWQTDfPfGYFWLdCYFYZvZyCiTV)
 
-![Classiagram.png](attachment:e0f4d1cc-eb5a-47e3-8c64-92f70eb2e480:Classiagram.png)
-
+![Class Diagram](images/ClassDiagram.png)
 ### Java Class Implementations (Overview)
 
 - **User.java:**  
