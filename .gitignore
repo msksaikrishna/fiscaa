@@ -9,6 +9,7 @@ build/
 /build/
 
 ### IntelliJ IDEA ###
+.idea/
 .idea/workspace.xml
 .idea/**/workspace.xml
 .idea/modules.xml
